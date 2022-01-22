@@ -1,1 +1,2 @@
-This is the second edit
+This is the second edit.
+Attempting GIT commands
