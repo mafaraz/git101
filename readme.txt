@@ -1,1 +1,0 @@
-This is a read-only text file.
